@@ -1,2 +1,133 @@
 notas
+almacen de datos
+data wharehouse
+herramientas olap
+diseño 
+sitemas rolap, molap
+manteneminiento
+
+
+evolucion 
+tecnologias
+software
+tecnologia
+gestion de datos
+
+requisitos usuarios
+aplicacion
+
+1970 - 2000
+
+sgdb
+lenguajes
+herramientas
+alto nivel
+
+base de datos
+soporte
+sistema de informacion para las organizaciones
+
+funciones de una organizaciones
+vender
+produccion
+personal
+
+sistemas operacionales oltp
+
+las organizaciones almacenan gran cantidad de informacion
+historica
+
+nuevas prestaciones de sistemas de informacion
+sistemas de informacion para la toma de decisiones
+
+data mining
+
+extraer informacion desde la base de datos
+objetivos
+
+analizar la organizacion
+previciones de evolucion
+diseño de estrategias
+
+dss decicion support systems
+
+hardware
+sistemas operativos
+base de datos
+consultas
+indices
+
+vldb
+
+vld bases de datos muy grandes
+arquitecturas de 64 bit
+tecnicas de indexacion
+sistemas abiertos
+herramientas y sistemas para dw
+herramientas de analisis de usuario final
+
+
+almacen de datos
+sirve para dar apoyo a los procesos
+y a la toma de decisiones
+
+oltp : bd orientada al proceso
+dw : bd orientada al analisis
+
+
+almacen de datos: 
+orientada informacion relevante
+integrada
+variable en el tiempo
+no volatil
+
+para consultar actividades
+ventas
+compras
+produccion
+
+no para soportar procesos
+gestion de pedidos
+facturacion
+
+plan de inversion
+cuentas de ahorro
+acciones
+prestamo
+seguros
+
+sistemas operacionales
+
+
+informacion financiera de los clientes
+data warehouse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
