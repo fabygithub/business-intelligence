@@ -171,6 +171,49 @@ agrupar por fecha
 
 #filtrar por tienda 
 
+datamart
+cuadro de mando
+
+estrategia 
+
+1 tabla dinamica
+2 filtro avanzado
+3 subtotales
+
+1 listado  grafico dinamico
+2 listado 
+3 listado de ventas cuantas son
+4 listado grafico
+5 grafico
+8 grafico
+9 ropal subtatotal
+10 estimacion
+
+#valor minimo maximo grafico
+word + excel
+olap
+
+1) listado de todas las ventas de alina en excel
+   filtrar los datos por tipo de seguro 
+   el total monetario
+   datamart
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
