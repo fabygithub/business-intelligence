@@ -1,3 +1,6 @@
+resumen curso business intelligent
+https://www.youtube.com/watch?v=Nhr3TfuPOWI&t=4s&ab_channel=ElT%C3%ADoTech
+
 notas
 almacen de datos
 data wharehouse
@@ -101,6 +104,111 @@ sistemas operacionales
 
 informacion financiera de los clientes
 data warehouse
+
+
+#tablas dinamicas
+#tabla dinamica cantidad de personas por departamento
+
+#seleccionar las columnas
+#tabla dinamica
+#nueva hoja de calculo
+#seleccionar campos de la tabla
+#arrastrar campos a valores
+#por ejemplo capitalizacion : se arrastra a (valores) : y aparece la suma de la capitalizacion
+#si arrastra a columnas por  ejemplo tamaño : salen las columnas con sus valores
+#si arrastro el campo sector : se arrastran todas las filas de sector
+#ir a inicio se puede agregar mas 0
+
+
+#tablas dinamicas excel ejercicios
+
+#la suma de importes por cada vendedor agrupado por tienda
+
+fecha            vendedor               tienda         producto       importe 
+17/05/2017       carlos velasquez       tienda a       laptop i5      1.000.000
+
+
+#agrupar por tienda (etiquetas de la fila) (columna tienda)
+tienda a
+tienda b
+tienda c
+tienda d
+
+
+suma de importes (suma de importe) (columna importe) 
+#suma de importe  = (configuracion de campo de valor)
+
+
+por cada vendedor (etiquetas de columna) (columna vendedor)
+carlos velasquez jose almanares juan carlos pedro noriega total general
+total general
+
+#seleccionar todo 
+#insertar
+#tabla dinamica
+#nueva hoja de calculo
+
+una opcion extra seria juntar en filas
+#vendedor
+#tienda
+
+
+2) suma importes por  tienda agrupado por fecha año y mes
+
+valor importe
+por tienda columnas
+agrupado fecha año y mes
+
+años
+trimestres
+fecha
+
+agrupar por fecha
+1 años
+2 meses
+3 dias
+
+
+#filtrar por tienda 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
