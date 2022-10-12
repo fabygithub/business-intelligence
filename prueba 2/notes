@@ -1,1 +1,319 @@
+parte sql
+base de datos
+mysql oracle
+
+pasar sql security
+entrar sql general
+
+repasar sentencias sql
+motor de base de datos oltp
+mysql
+sql server
+oracle
+postgres sql
+sql
+
+etl - select
+
+pasa por un filtro 
+join
+sql query - extractores - etl
+
+
+distintas instancias
+para crear los datamart
+
+el datawarehouse
+distintos nichos de negocios
+
+estandarizar conceptos
+nos vamos a orientar a oracle
+
+oracle - oradata - je
+cmd 
+sqlplus
+
+hoy realizar la primera ejecucion
+
+sentencias sql dura
+enter user-name : system
+password : 
+
+
+crear en mysql
+password : 1234
+
+explicar como esta hecha la base de datos
+conectarme sql
+
+llegar una base de datos hr
+
+base de datos de personas
+
+
+generar palabra alter user hr account unlock
+// desbloquear la base de datos
+
+alter user ht identified hr;
+// oltp oracle - llamada hr - tabla trabajo - empleado 
+
+standar ansi 
+
+sacar los datos
+jobs
+employes
+deparments
+
+job id - clave
+employ id - clave
+
+
+empleado se une con job
+empleado se une con departamento
+
+todo el entorno sqlplus
+hr
+
+sql plus - condecarse al sistema
+
+a traves de la directiva login
+testear conexion
+
+conn hr/hr@exe;
+
+dice conexion fallada
+voy a conectarme - connect
+
+me conecte a hr
+ahora accede a hr
+no tiene intefaz
+
+sql developer no tiene interfaz
+
+hr
+ver si existe una tabla
+
+desc jobs
+job tiene esos datos
+esa estructura
+
+como esta deparments
+que tiene jobs 
+
+id tipo varchar2 mas grande
+
+varchar 2400 bits largo
+varchar2 4000 bits largo
+
+escribir un texto y lo guardo
+min salary - salario minimo que puede ganar
+
+oracle
+
+number mysql - 11
+desarrollador 
+tabla vendendor
+necesito estandarizar
+pasar por el extrator
+y el datamart
+
+
+4 campos 
+tipo number
+
+6 bite - 48 bits - 2 elevado 48
+
+cuanto valor de dolares o pesos
+100 mil dolares
+
+
+saber la arquitectura de desarrollo
+el computador trabaja con 0 y 1
+no tiene otra forma de trabajar
+
+ y
+x  = 281.476
+
+
+
+max salary - number(6)
+
+departamento - estructura - 
+
+departamento de una empresa 10 - number(4)
+locatin - donde esta ubicado
+
+que quiero saber ahora
+que me describa el employees
+
+me interesan ciertas cosas de ahi
+me interesa el salario
+
+valor flotante con un largo de 8byte   10000000  -  1 milesima para llegar a 10 millones
+estandarizar datos
+
+analizar informacion
+que me interesa lo de la tabla
+la fecha de contrato
+
+manager_ id - dni de los trabajos
+
+quiero ver los empleados que hay
+podemos alterar los nombres
+quiero ver 107 registros
+
+necesito hacer un join
+innerjoin - join interno
+tabla a atacar - la que tiene las conexiones
+
+left join - right join
+
+la tabla no tiene datis
+
+unir elementos y ver su integridad de datos
+se cae el proceso
+
+armar cosas coherentes
+107 filas
+
+que mas que probar
+cuantos jobs
+
+19 tipo de trabajos en la empresa
+y los salarios de la empresa
+
+deparments
+select deparments
+27 departamentos
+
+consulta
+como podria sacar
+
+empleado que trabajaen en tal lugar y tal departamento
+sacar registros
+
+
+necesito la id del empleado
+necesito rastrear
+
+id empleado
+first name
+apellido
+en que departamento trabaja - deparment name
+job title - que titulo tiene
+me interesa su salario
+
+con todos esos datos puedo crear una tabla independiente
+se puede hacer un join con alias
+
+join natural
+que lo que estoy pidiendo
+que dice la ppt
+
+necesitamos practicar primero
+porque motivo
+
+mysql tiene practicar
+mandar lo que va haciendo en excel
+explica porque motivo
+
+tiene un problema de licencia
+utiliza las pestañas para
+hacer el trabajo
+
+que necesito
+que me dice
+
+e.select
+
+que necesito
+
+seleccionar
+
+empleados id
+nombre 
+apellido
+salario
+titulo
+departamento
+
+directiva - de donde lo saco
+que necesito saber
+
+from
+
+empleados. titulo
+
+where que tiene que tener coherencia
+where - donde
+
+primero el elemento central - igual a que cosa
+ahi cierro;
+
+estandarizar sacada de datos
+
+ingresar valores para e
+porque no me lo acepto
+
+me dice que esta perdido
+voy a tomar ese primero
+
+sacar los 6 datos
+vamos a reutilizar codigo
+
+se trata de un error de parentesis
+separar la sentencia paso a paso
+
+porque motivo lo hace mal
+que nos pide 
+no nos pide
+
+era un problema de semantica
+
+no es lo mismo decir && - and
+
+oracle - pl
+
+demas - spl - toma el estandar ansi
+
+filtrar con alias
+
+necesito sacar datos ordenados por apellidor
+
+order by
+
+de donde sacar los datos
+orientar al elemento de la izquierda
+
+natural join
+pesco todos los elementos
+
+que titulo tiene
+quiero saber el apellido
+
+no necesita eso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
